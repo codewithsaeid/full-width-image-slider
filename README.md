@@ -43,3 +43,5 @@ If autoplay is enabled, you can customise the rate at which the images change. T
 ```html
 data-speed="8000"
 ```
+
+[For More Slider &rarr;](https://www.jqueryscript.net/tags.php?/Content%20slider/)
